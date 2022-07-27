@@ -18,7 +18,7 @@ project "ImGuiNodeEditor"
 		"imgui_extra_math.inl",
 		"imgui_node_editor.cpp",
 		"imgui_node_editor.h",
-		"imgui_node_edtior_api.cpp",
+		"imgui_node_editor_api.cpp",
 		"imgui_node_edtior_internal.h",
 		"imgui_node_edtior_internal.inl"
 	}
